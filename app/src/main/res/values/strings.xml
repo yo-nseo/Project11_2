@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Project11_2</string>
+    <string name="title01">오버액션1</string>
+    <string name="title02">오버액션2</string>
+    <string name="title03">오버액션3</string>
+    <string name="title04">오버액션4</string>
+    <string name="title05">오버액션5</string>
+    <string name="title06">오버액션6</string>
+    <string name="title07">오버액션7</string>
+    <string name="title08">오버액션8</string>
+    <string name="title09">오버액션9</string>
+    <string name="title10">오버액션10</string>
 </resources>
